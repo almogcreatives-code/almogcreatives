@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';this?
-import { 
+import React, { useState, useEffect } from 'react';
+import { Zap, Magnet, ... } from 'lucide-react';
   Zap, 
   Magnet, 
   ArrowRight, 

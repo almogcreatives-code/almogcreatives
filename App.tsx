@@ -1,6 +1,10 @@
-import React, { useState, useEffect } from 'react';
-import { Zap, Magnet, ... } from 'lucide-react';
-  Zap, 
+ import React, { useState, useEffect } from 'react';
+import { 
+  Zap, Magnet, ArrowRight, ArrowLeft, CheckCircle2, Image as ImageIcon, 
+  Sparkles, Smartphone, Cpu, Mail, Menu, X, ChevronRight, Target, 
+  Layers, Handshake, HardDrive, TrendingUp, MessageSquare, Send, User 
+} from 'lucide-react';
+import { AnimatePresence, motion } from 'framer-motion';
   Magnet, 
   ArrowRight, 
   ArrowLeft,
